@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering @ FPT University</h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Building+FCTF+%E2%80%94+CTF+training+platform;Cybersecurity+%2B+Software+Engineering;Always+learning%2C+always+building](https://res.cloudinary.com/da7v0zuwg/image/upload/v1787254305/1785838238136_206534763536718757_2813055036926356081_0127d15188074a28c5eea79b375a1c3f_mafrxw.jpg)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Building+FCTF+%E2%80%94+CTF+training+platform;Cybersecurity+%2B+Software+Engineering;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
