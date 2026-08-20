@@ -42,12 +42,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NguyenDag&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDag&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="http://github-readme-stats-bice-nu-g3jky71pri.vercel.app/api?username=NguyenDag&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="http://github-readme-stats-bice-nu-g3jky71pri.vercel.app/api/top-langs/?username=NguyenDag&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NguyenDag&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stat-git-a5b288-dnguyens-projects-b170ed08.vercel.app/?user=NguyenDag&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,6 +57,9 @@
 <p align="left">
   <a href="www.linkedin.com/in/nguyen-dang-331855273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
